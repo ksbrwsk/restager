@@ -3,12 +3,12 @@
 Tool for restating all Java Apps in a CloudFoundry Space, using
 spring-cloud-cloudfoundry-discovery.
 
-** Prerequisites **
+## Prerequisites ##
 
 * Java 11
 * Maven (https://maven.apache.org)
 
-** Build: **
+## Build: ##
 
 ```
 mvn clean install
