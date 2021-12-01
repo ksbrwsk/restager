@@ -5,7 +5,7 @@ spring-cloud-cloudfoundry-discovery.
 
 ## Prerequisites ##
 
-* Java 14
+* Java 17
 * Maven (https://maven.apache.org)
 
 ## Build: ##
